@@ -1,0 +1,5 @@
+{"image_id": "000256419f7c57d8", "question": "Is the bench located below the dog?", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "001f2bec02f16977", "question": "Does the picture frame contain a cat?", "original_image": "T", "baseline_image": "T", "PDG_image": "T"}
+{"image_id": "00073eca51f23401", "question": "Is the bird flying above the tree?", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "001585b6966faee0", "question": "Is the Bird below the Tree?", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "0012f1c145573ce2", "question": "Is the Man below the Dog?", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}

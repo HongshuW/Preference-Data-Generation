@@ -1,0 +1,5 @@
+{"image_id": "00072e3556ad7e81", "question": "Is there a plate on the right of the elephant?", "original_image": "T", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "000c01d8269e1554", "question": "Is there a dog on the stairs?", "original_image": "T", "baseline_image": "T", "PDG_image": "T"}
+{"image_id": "0018a7c115fa7a5b", "question": "Is the chair below the dog?", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "001a6a36db18a4d9", "question": "Is there a bird below the tree?", "original_image": "T", "baseline_image": "T", "PDG_image": "T"}
+{"image_id": "00202bc00624c1e0", "question": "Are birds above the tree?", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
