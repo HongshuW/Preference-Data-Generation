@@ -1,5 +1,4 @@
 import pandas as pd
-import os
 
 custom_dir = "C:\\Users\\admin\\repos\\Preference-Data-Generation\\data"
 inner_meta_path = "\\open-images-v7\\train\\metadata\\"
