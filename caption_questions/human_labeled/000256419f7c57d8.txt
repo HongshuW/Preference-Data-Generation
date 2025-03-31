@@ -1,0 +1,12 @@
+Claim 1: There are many people standing on the ground.
+Question 1: There are many people standing on the ground. (True/False)
+
+Claim 2: The people are holding dogs.
+Question 2: The people are holding dogs. (True/False)
+
+Claim 3: There is a bench in the image.
+Question 3: There is a bench in the image. (True/False)
+
+Claim 4: There are trees in the background.
+Question 4: There are trees in the background. (True/False)
+

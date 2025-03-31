@@ -1,0 +1,6 @@
+Claim 1: There is a dog which is black in color sitting on the road.
+Question 1: There is a dog which is black in color sitting on the road. (True/False)
+
+Claim 2: There is a belt tightened to the dog.
+Question 2: There is a belt tightened to the dog. (True/False)
+

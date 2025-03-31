@@ -1,0 +1,6 @@
+Claim 1: There is a puppy dog standing on the white color cloth.
+Question 1: Is there a puppy dog standing on the white color cloth?
+
+Claim 2: There are decorative items kept in a rack behind the puppy dog.
+Question 2: Are there decorative items kept in a rack behind the puppy dog?
+

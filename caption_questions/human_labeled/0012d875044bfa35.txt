@@ -1,0 +1,9 @@
+Claim 1: This is the dog sitting on the floor.</1>
+Question 1: Is this a dog sitting on the floor?</1>
+
+Claim 2: This looks like a wooden object.</2>
+Question 2: Does this object look like it is made of wood?</2>
+
+Claim 3: I think these are the stairs.</3>
+Question 3: Are these stairs?</3>
+

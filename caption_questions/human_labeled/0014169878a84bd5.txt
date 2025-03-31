@@ -1,0 +1,15 @@
+Claim 1: There is a dog lying on the carpet.
+Question 1: Is there a dog lying on the carpet?
+
+Claim 2: There is a bag next to the dog.
+Question 2: Is there a bag next to the dog?
+
+Claim 3: There is a chair near the dog.
+Question 3: Is there a chair near the dog?
+
+Claim 4: There is a table present in the image.
+Question 4: Is there a table present in the image?
+
+Claim 5: There are cables around the dog.
+Question 5: Are there cables around the dog?
+

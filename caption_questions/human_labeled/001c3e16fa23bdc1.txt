@@ -1,0 +1,6 @@
+Claim 1: There is a bird in the air.
+Question 1: Is there a bird in the air?
+
+Claim 2: There is a sea in the image.
+Question 2: Is there a sea in the image?
+

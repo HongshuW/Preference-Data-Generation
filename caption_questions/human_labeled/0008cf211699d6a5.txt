@@ -1,0 +1,9 @@
+Claim 1: There is a dog in the image.
+Question 1: Is there a dog in the image?
+
+Claim 2: There is a person laying on the ground in the image.
+Question 2: Is there a person laying on the ground in the image?
+
+Claim 3: There are wood pieces on the left side of the image.
+Question 3: Are there wood pieces on the left side of the image?
+

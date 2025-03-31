@@ -1,0 +1,12 @@
+Claim 1: This image consists of trees at the top.
+Question 1: This image consists of trees at the top. (True/False)
+
+Claim 2: There is a tractor at the top.
+Question 2: There is a tractor at the top. (True/False)
+
+Claim 3: There is a woman on the right side.
+Question 3: There is a woman on the right side. (True/False)
+
+Claim 4: There is a dog in the middle.
+Question 4: There is a dog in the middle. (True/False)
+

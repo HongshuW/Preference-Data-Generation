@@ -1,0 +1,12 @@
+Claim 1: There is a dog on the carpet.
+Question 1: There is a dog on the carpet. (True/False)
+
+Claim 2: There is a rope on the carpet.
+Question 2: There is a rope on the carpet. (True/False)
+
+Claim 3: There is a cup on the box.
+Question 3: There is a cup on the box. (True/False)
+
+Claim 4: There is a box on the carpet.
+Question 4: There is a box on the carpet. (True/False)
+

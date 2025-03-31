@@ -1,0 +1,6 @@
+Claim 1: A person is holding a dog with his hands.
+Question 1: A person is holding a dog with his hands. (True/False)
+
+Claim 2: There is a group of plants in the background.
+Question 2: There is a group of plants in the background. (True/False)
+

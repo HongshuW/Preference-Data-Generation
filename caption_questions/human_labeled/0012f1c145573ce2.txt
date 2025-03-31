@@ -1,0 +1,12 @@
+Claim 1: There is a person wearing a black color shirt in the image.
+Question 1: Is there a person wearing a black color shirt in the image?
+
+Claim 2: The person is sitting.
+Question 2: Is the person sitting?
+
+Claim 3: There is a statue of a person in the background of the image.
+Question 3: Is there a statue of a person in the background of the image?
+
+Claim 4: There is a statue of a dog in the background of the image.
+Question 4: Is there a statue of a dog in the background of the image?
+

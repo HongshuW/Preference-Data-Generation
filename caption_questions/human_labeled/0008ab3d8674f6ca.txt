@@ -1,0 +1,9 @@
+Claim 1: There is a black and white colored cat on the floor.
+Question 1: Is there a black and white colored cat on the floor?
+
+Claim 2: There is a paper on the floor.
+Question 2: Is there a paper on the floor?
+
+Claim 3: There are some other objects present.
+Question 3: Are there some other objects present?
+

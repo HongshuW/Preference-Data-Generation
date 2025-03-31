@@ -1,0 +1,6 @@
+Claim 1: There is a bird on a branch in the picture.
+Question 1: There is a bird on a branch in the picture. (True/False)
+
+Claim 2: There are trees in the background of the picture.
+Question 2: There are trees in the background of the picture. (True/False)
+

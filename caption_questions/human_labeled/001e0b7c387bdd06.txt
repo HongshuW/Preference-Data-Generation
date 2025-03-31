@@ -1,0 +1,9 @@
+Claim 1: There is a dog in the image.
+Question 1: Is there a dog in the image?
+
+Claim 2: The dog has a chain belt around its neck.
+Question 2: Does the dog have a chain belt around its neck?
+
+Claim 3: There is grass behind the dog on the surface.
+Question 3: Is there grass behind the dog on the surface?
+

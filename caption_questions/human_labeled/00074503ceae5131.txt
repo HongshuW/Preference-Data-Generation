@@ -1,0 +1,9 @@
+Claim 1: This dog is laying on a bed.
+Question 1: This dog is laying on a bed. (True/False)
+
+Claim 2: The wall is in green color.
+Question 2: The wall is in green color. (True/False)
+
+Claim 3: This is a window.
+Question 3: This is a window. (True/False)
+

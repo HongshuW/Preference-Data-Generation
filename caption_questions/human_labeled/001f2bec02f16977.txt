@@ -1,0 +1,9 @@
+Claim 1: There are two cat photos on the wall.
+Question 1: There are two cat photos on the wall. (True/False)
+
+Claim 2: There are chairs in the foreground.
+Question 2: There are chairs in the foreground. (True/False)
+
+Claim 3: There is a roof with lights.
+Question 3: There is a roof with lights. (True/False)
+

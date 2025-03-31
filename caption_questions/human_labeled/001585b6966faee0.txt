@@ -1,0 +1,15 @@
+Claim 1: There is a black and white picture.
+Question 1: Is there a black and white picture?
+
+Claim 2: A peacock is standing on the ground.
+Question 2: Is a peacock standing on the ground?
+
+Claim 3: There is some grass in the image.
+Question 3: Is there some grass in the image?
+
+Claim 4: There are a few trees in the background.
+Question 4: Are there a few trees in the background?
+
+Claim 5: There are a few walls in the background.
+Question 5: Are there a few walls in the background?
+

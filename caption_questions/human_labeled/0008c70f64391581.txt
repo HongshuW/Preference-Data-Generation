@@ -1,0 +1,6 @@
+Claim 1: There are ducklings in the tub.
+Question 1: There are ducklings in the tub: True or False?
+
+Claim 2: The tub is white in color.
+Question 2: The tub is white in color: True or False?
+

@@ -47,3 +47,7 @@ Modify the `custom_dir` variable to download to a custom folder in the following
 - The `remove_object` folder contains processed images, each with a removed object.
 - `labels.txt` in this folder records the label of the removed object in each image.
 - `process_data\process_data.py` generates this dataset.
+
+
+## Run eval scripts
+e.g. `python -m src.eval.get_questions`

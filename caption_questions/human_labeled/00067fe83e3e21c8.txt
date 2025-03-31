@@ -1,0 +1,18 @@
+Claim 1: There is an animal in the image.
+Question 1: Is there an animal in the image?
+
+Claim 2: There is a cloth in the image.
+Question 2: Is there a cloth in the image?
+
+Claim 3: There is a blue color object in the image.
+Question 3: Is there a blue color object in the image?
+
+Claim 4: There is a wall in the background.
+Question 4: Is there a wall in the background?
+
+Claim 5: There are frames in the background.
+Question 5: Are there frames in the background?
+
+Claim 6: There is a watermark in the image.
+Question 6: Is
+

@@ -1,0 +1,18 @@
+Claim 1: There are two dogs walking on a wooden surface.
+Question 1: There are two dogs walking on a wooden surface?
+
+Claim 2: There is a dog in the foreground.
+Question 2: There is a dog in the foreground?
+
+Claim 3: The dog in the foreground is holding an object in its mouth.
+Question 3: The dog in the foreground is holding an object in its mouth?
+
+Claim 4: There is text on the object the dog is holding.
+Question 4: There is text on the object the dog
+
+Claim 5: The dog in the foreground has a belt around its neck.
+Question 5: N/A
+
+Claim 6: There is water to the left of the dogs.
+Question 6: N/A
+

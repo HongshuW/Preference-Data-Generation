@@ -1,0 +1,12 @@
+Claim 1: There is a man in the picture.
+Question 1: Is there a man in the picture?
+
+Claim 2: There are two dogs in the picture.
+Question 2: Are there two dogs in the picture?
+
+Claim 3: There is water in the background.
+Question 3: Is there water in the background?
+
+Claim 4: The sky is visible at the top of the picture.
+Question 4: Is the sky visible at the top of the picture?
+

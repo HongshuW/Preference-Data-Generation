@@ -1,0 +1,6 @@
+Claim 1: There is a cat in the image.
+Question 1: Is there a cat in the image?
+
+Claim 2: The cat is on the floor.
+Question 2: Is the cat on the floor?
+
