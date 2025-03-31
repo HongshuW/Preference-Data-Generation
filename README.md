@@ -16,7 +16,14 @@ This repository is for CS6240 course project.
 &nbsp;&nbsp;|- process_data\
 &nbsp;&nbsp;&nbsp;&nbsp;|- process_data.py\
 &nbsp;&nbsp;&nbsp;&nbsp;|- get_baseline.py\
-|- README.md
+|- README.md\
+|- config.ini
+
+### Config
+Create `config.ini` file with content:\
+`[DEFAULT]`\
+`OPENAI_API_KEY = your_api_key`\
+`DATA_SOURCE_FOLDER = raw_data_folder_path`
 
 ### Original Data
 - The `data` folder contains a benchmark of 100 images retrieved from Open Images V7 dataset. This folder contains all the data used for this project.
