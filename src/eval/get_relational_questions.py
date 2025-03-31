@@ -12,11 +12,13 @@ inner_labels_path = config['DEFAULT']['INNER_LABELS_PATH']
 inner_data_path = config['DEFAULT']['INNER_DATA_PATH']
 inner_meta_path = config['DEFAULT']['INNER_META_PATH']
 
-output_path = "C:\\Users\\admin\\repos\\Preference-Data-Generation\\caption_questions\\object_relationship\\gpt_labeled.jsonl"
+output_path = "C:\\Users\\admin\\repos\\Preference-Data-Generation\\caption_questions\\object_relationship\\human_labeled.jsonl"
 
 prompt_header = "Given the following text, what is the relationship between "
-prompt_format = "\nReturn N/A if there is no relationship. Based on the relationship, write a question that can be answered by True or False. Return the question without explanation."
+prompt_format = "\nReturn the relationship as a short sentence without explanation. It should be in the format \"<A> <R> <B>\", where <A> and <B> are the two given objects in the given sequence, <R> is a relationship chosen from: <on the left of>, <on the right of>, <above>, <below>, <inside>, <contains>\nReturn N/A if there is no relationship."
 
+question_prompt_header = "Given the following relationship, convert it to a question that can be answered by True or False.\n"
+question_prompt_format = "\nReturn the question as one sentence only."
 
 def read_captions_jsonl(filepath):
     data_instances = []
@@ -39,8 +41,11 @@ classes = dict(zip(df.iloc[:, 0], df.iloc[:, 1]))
 bounding_boxes = pd.read_csv(base_folder + inner_labels_path + "filtered_detections.csv")
 
 # read caption data
-captions_file = base_folder + inner_labels_path + 'captions_generated_data.jsonl'
+captions_file = base_folder + inner_labels_path + 'captions_data.jsonl'
 captions_data = read_captions_jsonl(captions_file)
+
+# all supported relationships
+supported_relationships = {"left", "right", "above", "below", "inside", "contains"}
 
 for entry in captions_data:
     image_id = entry["image_id"]
@@ -63,17 +68,37 @@ for entry in captions_data:
     prompt += prompt_format
     print(prompt + "\n")
 
-    response = llm.generate_gpt_response(prompt)
-    print(response + "\n")
+    relationship = llm.generate_gpt_response(prompt)
+    print(relationship + "\n")
     
-    response = response.strip()
-    if "N/A" in response:
+    relationship = relationship.strip()
+    if "N/A" in relationship:
         continue
+
+    extracted_relationship = None
+    for r in supported_relationships:
+        if not r in relationship:
+            continue
+        else:
+            extracted_relationship = r
+            break
+    if not extracted_relationship:
+        continue
+
+    question_prompt = question_prompt_header + "\"" + relationship + "\"" + question_prompt_format
+    print(question_prompt + "\n")
+    question = llm.generate_gpt_response(question_prompt)
+    print(question + "\n")
 
     entry = dict()
     entry["image_id"] = image_id
     entry["caption"] = caption
-    entry["question"] = response
+    entry["label1"] = two_items[0]
+    entry["label2"] = two_items[1]
+    entry["text_label1"] = labels[0]
+    entry["text_label2"] = labels[1]
+    entry["relationship"] = extracted_relationship
+    entry["question"] = question
     with open(output_path, 'a', encoding='utf-8') as file:
         json_string = json.dumps(entry)
         file.write(json_string + '\n')
