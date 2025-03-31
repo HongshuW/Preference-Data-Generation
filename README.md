@@ -51,10 +51,18 @@ Modify the `custom_dir` variable to download to a custom folder in the following
 - `process_data\get_baseline.py` generates this dataset.
 
 ## Our approach
-- The `remove_object` folder contains processed images, each with a removed object.
+The `remove_object` folder contains processed images, each with a removed object.
+
 - `labels.txt` in this folder records the label of the removed object in each image.
 - `process_data\process_data.py` generates this dataset.
 
+The `modify_relationship` folder contains processed images with modified relationships.
+
+- `process_data\process_data_relational.py` generates this dataset.
+
 
 ## Run eval scripts
+Evaluation scripts are in the `eval` folder.\
 e.g. `python -m src.eval.get_questions`
+
+The results will be saved to `experiment_results` folder.
