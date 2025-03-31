@@ -52,8 +52,8 @@ for entry in captions_data:
     caption = entry["caption"]
 
     # get all labels from this image
-    relative_rows = bounding_boxes[bounding_boxes["ImageID"] == image_id]
-    original_labels = list(relative_rows['LabelName'].unique())
+    relevant_rows = bounding_boxes[bounding_boxes["ImageID"] == image_id]
+    original_labels = list(relevant_rows['LabelName'].unique())
     if len(original_labels) < 2:
         continue
 
