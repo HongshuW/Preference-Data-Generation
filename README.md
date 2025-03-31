@@ -4,8 +4,9 @@ This repository is for CS6240 course project.
 
 ## Repo Structure
 |- data\
-|- remove_object\
 |- baseline\
+|- remove_object\
+|- modify_relationship\
 |- src\
 &nbsp;&nbsp;|- download_data\
 &nbsp;&nbsp;&nbsp;&nbsp;|- load_data.py\
@@ -16,6 +17,9 @@ This repository is for CS6240 course project.
 &nbsp;&nbsp;|- process_data\
 &nbsp;&nbsp;&nbsp;&nbsp;|- process_data.py\
 &nbsp;&nbsp;&nbsp;&nbsp;|- get_baseline.py\
+&nbsp;&nbsp;|- eval\
+&nbsp;&nbsp;|- utils\
+|- experiment_results\
 |- README.md\
 |- config.ini
 
@@ -24,6 +28,9 @@ Create `config.ini` file with content:\
 `[DEFAULT]`\
 `OPENAI_API_KEY = your_api_key`\
 `DATA_SOURCE_FOLDER = raw_data_folder_path`
+`INNER_META_PATH = \\open-images-v7\\train\\metadata\\`\
+`INNER_LABELS_PATH = \\open-images-v7\\train\\labels\\`\
+`INNER_DATA_PATH = \\open-images-v7\\train\\data\\`
 
 ### Original Data
 - The `data` folder contains a benchmark of 100 images retrieved from Open Images V7 dataset. This folder contains all the data used for this project.
