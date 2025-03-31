@@ -1,0 +1,18 @@
+Claim 1: The image features two geese.
+Question 1: The image features two geese. (True/False)
+
+Claim 2: The first goose has a distinctive black head with a white cheek patch.
+Question 2: The first goose has a distinctive black head with a white cheek patch. (True/False)
+
+Claim 3: The first goose has a predominantly gray and white body.
+Question 3: The first goose has a predominantly gray and
+
+Claim 4: The second goose shares similar coloring to the first goose.
+Question 4: N/A
+
+Claim 5: The second goose has a more upright posture than the first goose.
+Question 5: N/A
+
+Claim 6: The setting appears to be a natural habitat with sparse grass.
+Question 6: N/A
+

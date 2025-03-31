@@ -1,0 +1,21 @@
+Claim 1: The image shows a golden Labrador retriever running through a grassy field.
+Question 1: The image shows a golden Labrador retriever running through a grassy field. (True/False)
+
+Claim 2: The Labrador retriever has a slightly blurred expression as it approaches the camera.
+Question 2: The Labrador retriever has a slightly blurred expression as it approaches the camera. (
+
+Claim 3: There are people near parked vehicles in the background.
+Question 3: N/A
+
+Claim 4: There is a picnic setup in the background.
+Question 4: N/A
+
+Claim 5: The scene appears vibrant and lively.
+Question 5: N/A
+
+Claim 6: There is green grass in the scene.
+Question 6: N/A
+
+Claim 7: There are yellow flowers scattered throughout the field.
+Question 7: N/A
+

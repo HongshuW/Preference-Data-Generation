@@ -1,0 +1,21 @@
+Claim 1: The image features a close-up of a cat's face.
+Question 1: The image features a close-up of a cat's face. (True or False)
+
+Claim 2: The cat's eyes are striking green.
+Question 2: The cat's eyes are striking green. (True or False
+
+Claim 3: The cat's fur is detailed.
+Question 3: N/A
+
+Claim 4: The cat has a mix of colors in its fur, including browns and darker stripes.
+Question 4: N/A
+
+Claim 5: The cat's nose is prominent.
+Question 5: N/A
+
+Claim 6: There are visible whiskers on either side of the cat's face.
+Question 6: N/A
+
+Claim 7: The overall expression of the cat conveys curiosity or attentiveness.
+Question 7: N/A
+

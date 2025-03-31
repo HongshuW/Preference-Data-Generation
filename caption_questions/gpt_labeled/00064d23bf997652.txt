@@ -1,0 +1,24 @@
+Claim 1: The image features a fluffy white dog.
+Question 1: The image features a fluffy white dog. (True/False)
+
+Claim 2: The dog is running on a wooden surface.
+Question 2: The dog is running on a wooden surface. (True/False)
+
+Claim 3: The dog has a playful expression.
+Question 3: The dog has a playful expression. (True/False)
+
+Claim 4: The dog's tongue is out.
+Question 4: N/A
+
+Claim 5: The dog's fur is slightly tousled.
+Question 5: N/A
+
+Claim 6: The background is blurred.
+Question 6: N/A
+
+Claim 7: The background suggests a green, natural setting.
+Question 7: N/A
+
+Claim 8: The scene has a lively atmosphere.
+Question 8: N/A
+

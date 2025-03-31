@@ -1,0 +1,15 @@
+Claim 1: The image shows a dog swimming in a blue swimming pool.</1>
+Question 1: True or False: The image shows a dog swimming in a blue swimming pool.</1>
+
+Claim 2: The dog has a predominantly white coat with brown patches.</2>
+Question 2: True or False: The dog has a predominantly white coat with brown patches.</2>
+
+Claim 3: The dog appears to be paddling through the water with a calm demeanor.</3>
+Question 3: True or False: The dog appears to be paddling through the water with a calm demeanor.</3>
+
+Claim 4: The surface of the pool reflects the light.</4>
+Question 4: N/A
+
+Claim 5: The setting creates a serene atmosphere.</5>
+Question 5: N/A
+

@@ -1,0 +1,24 @@
+Claim 1: The image depicts a small child.
+Question 1: The image depicts a small child. (True/False)
+
+Claim 2: The child is crawling on a paved path.
+Question 2: The child is crawling on a paved path. (True/False)
+
+Claim 3: The child is dressed in a red outfit.
+Question 3: The child is dressed in a red
+
+Claim 4: The child is positioned close to the ground.
+Question 4: N/A
+
+Claim 5: There are trees in the background.
+Question 5: N/A
+
+Claim 6: There is a wooden fence in the background.
+Question 6: N/A
+
+Claim 7: The setting is outdoors, possibly a park.
+Question 7: N/A
+
+Claim 8: The atmosphere appears calm and serene.
+Question 8: N/A
+

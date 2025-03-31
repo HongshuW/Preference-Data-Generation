@@ -1,0 +1,24 @@
+Claim 1: The image features a close-up of a dog.
+Question 1: The image features a close-up of a dog. (True/False)
+
+Claim 2: The dog is a breed with a wrinkled face and a stout build.
+Question 2: The dog is a breed with a wrinkled face and a stout build.
+
+Claim 3: The dog's expression appears serious.
+Question 3: N/A
+
+Claim 4: The dog has prominent eyebrows.
+Question 4: N/A
+
+Claim 5: The dog has an intense gaze.
+Question 5: N/A
+
+Claim 6: The background is blurred.
+Question 6: N/A
+
+Claim 7: The dog's face has a light tan color.
+Question 7: N/A
+
+Claim 8: The lighting creates a soft, moody atmosphere around the subject.
+Question 8: N/A
+

@@ -1,0 +1,21 @@
+Claim 1: The image features a black dog.
+Question 1: The image features a black dog. (True/False)
+
+Claim 2: The black dog is resting on a couch.
+Question 2: The black dog is resting on a couch. (True/False)
+
+Claim 3: The dog's back and head are visible.
+Question 3: The dog's back and head are visible. (True/False
+
+Claim 4: The black dog is near a cozy blanket.
+Question 4: N/A
+
+Claim 5: There is possibly another dog with a different fur color in the background.
+Question 5: N/A
+
+Claim 6: The couch has a striped pattern.
+Question 6: N/A
+
+Claim 7: The overall scene conveys a sense of comfort and relaxation.
+Question 7: N/A
+

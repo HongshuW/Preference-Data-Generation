@@ -1,0 +1,18 @@
+Claim 1: The image shows a natural setting with lush green vegetation.
+Question 1: The image shows a natural setting with lush green vegetation. (True/False)
+
+Claim 2: The scene includes tall grass and shrubbery.
+Question 2: The scene includes tall grass and shrubbery. (True/False)
+
+Claim 3: There is a bird perched on a branch.
+Question 3: There is a bird perched on a branch. (True/False)
+
+Claim 4: The bird is partially camouflaged by the surrounding foliage.
+Question 4: N/A
+
+Claim 5: The overall scene conveys a serene and vibrant environment.
+Question 5: N/A
+
+Claim 6: The environment depicted is typical of wetlands or marsh areas.
+Question 6: N/A
+

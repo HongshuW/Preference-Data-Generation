@@ -1,0 +1,12 @@
+Claim 1: The image features two seagulls flying against a bright blue sky with scattered clouds.
+Question 1: The image features two seagulls flying against a bright blue sky with scattered clouds. (True/False)
+
+Claim 2: The wings of the birds are prominently displayed.
+Question 2: The wings of the birds are not prominently displayed. (True/False)
+
+Claim 3: The image captures a sense of movement and freedom.
+Question 3: The image does not capture a sense of movement and freedom. (True/False)
+
+Claim 4: The overall tone of the image conveys a serene and open atmosphere.
+Question 4: The overall tone of the image does not
+

@@ -1,0 +1,27 @@
+Claim 1: The image features a black and tan dog.
+Question 1: The image features a black and tan dog: True or False?
+
+Claim 2: The dog is likely a Dachshund.
+Question 2: The dog is likely a Dachshund: True or False?
+
+Claim 3: The dog is standing in a grassy area.
+Question 3: The dog
+
+Claim 4: The background includes some steps made of wood.
+Question 4: N/A
+
+Claim 5: The background includes garden foliage.
+Question 5: N/A
+
+Claim 6: The setting is outdoors.
+Question 6: N/A
+
+Claim 7: The dog appears alert.
+Question 7: N/A
+
+Claim 8: The dog is positioned near some plants.
+Question 8: N/A
+
+Claim 9: The dog is near fallen leaves.
+Question 9: N/A
+

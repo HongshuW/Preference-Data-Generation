@@ -1,0 +1,12 @@
+Claim 1: The image shows a single bird swimming on a calm body of water.
+Question 1: The image shows a single bird swimming on a calm body of water. (True/False)
+
+Claim 2: The water appears to be slightly rippled, reflecting a muted light.
+Question 2: The water appears to be slightly rippled, reflecting a muted light. (True/False)
+
+Claim 3: The bird is mostly in the center of the frame.
+Question 3: The bird is mostly in the center of the frame. (True/False)
+
+Claim 4: The atmosphere created by the image is serene and peaceful.
+Question 4: The atmosphere created by the image is
+

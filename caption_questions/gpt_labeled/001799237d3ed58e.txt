@@ -1,0 +1,27 @@
+Claim 1: The image depicts a sleeping dog.
+Question 1: The image depicts a sleeping dog. (True/False)
+
+Claim 2: The dog is likely a Labrador.
+Question 2: The dog is likely a Labrador. (True/False)
+
+Claim 3: The dog is lying comfortably on a rug.
+Question 3: The
+
+Claim 4: The dog is sprawled out with its legs extended.
+Question 4: N/A
+
+Claim 5: The dog appears peaceful with its eyes closed.
+Question 5: N/A
+
+Claim 6: The dog has a relaxed posture.
+Question 6: N/A
+
+Claim 7: The setting includes wooden flooring.
+Question 7: N/A
+
+Claim 8: The setting includes a patterned rug.
+Question 8: N/A
+
+Claim 9: The environment is cozy and indoors.
+Question 9: N/A
+

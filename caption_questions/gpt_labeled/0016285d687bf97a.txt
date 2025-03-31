@@ -1,0 +1,21 @@
+Claim 1: The image features a smiling woman holding two dogs.
+Question 1: The image features a smiling woman holding two dogs. (True/False)
+
+Claim 2: The woman is holding a black and white Boston Terrier.
+Question 2: The woman is holding a black and white Boston Terrier. (True/False)
+
+Claim 3: The woman is holding a small Chihuahua.
+Question 3: The woman is holding a small Chihuahua. (True/False
+
+Claim 4: The woman is seated on a couch.
+Question 4: N/A
+
+Claim 5: The woman is wearing a striped shirt.
+Question 5: N/A
+
+Claim 6: The woman has a cheerful expression.
+Question 6: N/A
+
+Claim 7: The background includes shelves with various items.
+Question 7: N/A
+

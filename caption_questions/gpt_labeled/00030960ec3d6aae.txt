@@ -1,0 +1,21 @@
+Claim 1: The image depicts a coastal scene.
+Question 1: The image depicts a coastal scene. (True/False)
+
+Claim 2: There is a sandy area with numerous birds gathered on the ground.
+Question 2: There is a sandy area with numerous birds gathered on the ground. (True/False)
+
+Claim 3: The background features a clear blue sky.
+Question 3: 
+
+Claim 4: The water in the image is vibrant turquoise.
+Question 4: N/A
+
+Claim 5: A gnarled, leafless tree stands amidst the birds.
+Question 5: N/A
+
+Claim 6: Several birds are flying in the air above.
+Question 6: N/A
+
+Claim 7: The scene conveys a sense of nature and wildlife on a remote island.
+Question 7: N/A
+

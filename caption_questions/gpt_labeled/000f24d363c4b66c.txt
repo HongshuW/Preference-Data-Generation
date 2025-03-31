@@ -1,0 +1,15 @@
+Claim 1: The image shows a German Shepherd dog sitting on a bench in a grassy park.
+Question 1: The image does not show a German Shepherd dog sitting on a bench in a grassy park. (True/False)
+
+Claim 2: The dog is looking toward the camera with its tongue out, appearing happy and alert.
+Question 2: The dog is not looking toward the camera with its tongue out, appearing happy and alert. (True/False)
+
+Claim 3: In the background, there is a green field with a pathway.
+Question 3: There is no green
+
+Claim 4: The setting is a natural outdoor environment.
+Question 4: N/A
+
+Claim 5: The lighting suggests it is daytime.
+Question 5: N/A
+

@@ -1,0 +1,12 @@
+Claim 1: The image shows a fluffy cat lying on its back on a carpeted surface.
+Question 1: The image shows a fluffy cat lying on its back on a carpeted surface. (True/False)
+
+Claim 2: The cat appears relaxed, with its paws in the air and fur slightly tousled.
+Question 2: The cat appears relaxed, with its paws in the air and fur slightly tousled. (True/False)
+
+Claim 3: There are slatted blinds in the background allowing some natural light to filter through.
+Question 3: There are slatted blinds in the background allowing some natural light
+
+Claim 4: The overall scene conveys a cozy and laid-back atmosphere.
+Question 4: N/A
+

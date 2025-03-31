@@ -1,0 +1,15 @@
+Claim 1: The image shows a bird perched on the edge of a wooden structure.
+Question 1: The image shows a bird perched on the edge of a wooden structure. (True/False)
+
+Claim 2: The bird has a sleek body with a dark blue-black head and back.
+Question 2: The bird has a sleek body with a dark blue-black head and back. (True/False)
+
+Claim 3: The bird's underparts are white.
+Question 3: The bird's underparts are white. (True/False)
+
+Claim 4: The background features blurred greenery.
+Question 4: The background features blurred greenery. (
+
+Claim 5: The setting suggests a natural environment.
+Question 5: N/A
+

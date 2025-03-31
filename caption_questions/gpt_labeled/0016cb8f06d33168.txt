@@ -1,0 +1,12 @@
+Claim 1: The image shows a person walking a dog at night.
+Question 1: The image shows a person walking a dog at night. (True/False)
+
+Claim 2: The scene is illuminated by streetlights, creating a silhouette effect.
+Question 2: The scene is illuminated by streetlights, creating a silhouette effect. (True/False)
+
+Claim 3: The dog has a lighted collar or leash, making it visible in the dark.
+Question 3: The dog has a lighted collar or leash, making it visible in the dark. (True/False)
+
+Claim 4: The overall atmosphere is calm and serene, reflecting a quiet evening walk.
+Question 4: 
+

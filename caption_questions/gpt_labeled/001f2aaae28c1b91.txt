@@ -1,0 +1,24 @@
+Claim 1: The image features a Bernese Mountain Dog.
+Question 1: The image features a Bernese Mountain Dog. (True/False)
+
+Claim 2: The dog is in a grassy area.
+Question 2: The dog is in a grassy area. (True/False)
+
+Claim 3: There is some greenery in the background.
+Question 3: 
+
+Claim 4: The dog appears to be engaging with its surroundings.
+Question 4: N/A
+
+Claim 5: The scene suggests a natural, outdoor setting.
+Question 5: N/A
+
+Claim 6: The setting is likely a backyard.
+Question 6: N/A
+
+Claim 7: The focus is on the dog's expressive face.
+Question 7: N/A
+
+Claim 8: The dog has characteristic black, brown, and white fur.
+Question 8: N/A
+

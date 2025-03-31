@@ -1,0 +1,30 @@
+Claim 1: The image shows a pale-colored bird.
+Question 1: The image shows a pale-colored bird. (True/False)
+
+Claim 2: The bird is perched on a branch.
+Question 2: The bird is perched
+
+Claim 3: The bird has a rounded body.
+Question 3: N/A
+
+Claim 4: The bird has a distinctive head with a small beak.
+Question 4: N/A
+
+Claim 5: The background features a clear blue sky.
+Question 5: N/A
+
+Claim 6: The branches are bare.
+Question 6: N/A
+
+Claim 7: It may be early spring or late winter.
+Question 7: N/A
+
+Claim 8: The bird appears calm.
+Question 8: N/A
+
+Claim 9: The bird is facing slightly to the side.
+Question 9: N/A
+
+Claim 10: The bird is showcasing its features.
+Question 10: N/A
+

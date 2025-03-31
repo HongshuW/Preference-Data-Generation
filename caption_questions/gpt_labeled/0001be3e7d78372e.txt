@@ -1,0 +1,27 @@
+Claim 1: The image shows a bird standing on dark volcanic rocks.
+Question 1: The image shows a bird standing on dark volcanic rocks. (True/False)
+
+Claim 2: The bird is next to a body of water.
+Question 2: The bird is next to a
+
+Claim 3: The bird has brownish plumage.
+Question 3: N/A
+
+Claim 4: The bird has yellow legs.
+Question 4: N/A
+
+Claim 5: The bird has a long beak.
+Question 5: N/A
+
+Claim 6: The bird appears to be focused on the water.
+Question 6: N/A
+
+Claim 7: The bird is possibly hunting for food.
+Question 7: N/A
+
+Claim 8: The water has a reflective surface.
+Question 8: N/A
+
+Claim 9: The water captures the surrounding natural light.
+Question 9: N/A
+

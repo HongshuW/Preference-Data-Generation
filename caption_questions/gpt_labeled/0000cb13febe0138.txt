@@ -1,0 +1,21 @@
+Claim 1: The image features a dog with a shaggy coat.
+Question 1: The image features a dog with a shaggy coat.
+
+Claim 2: The dog is holding a rubber toy in the shape of a bone in its mouth.
+Question 2: The dog is holding a rubber toy in the shape of a bone in its mouth.
+
+Claim 3: The photo is in black and white.
+Question 3: N/A
+
+Claim 4: The black and white photo creates a contrast between the dog's fur and the toy.
+Question 4: N/A
+
+Claim 5: The background appears light and blurred.
+Question 5: N/A
+
+Claim 6: The dog's expression is the focus of the image.
+Question 6: N/A
+
+Claim 7: The toy is the focus of the image.
+Question 7: N/A
+

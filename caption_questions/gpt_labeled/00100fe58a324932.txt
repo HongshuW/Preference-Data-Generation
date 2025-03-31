@@ -1,0 +1,21 @@
+Claim 1: The image features a person holding a dog.
+Question 1: The image features a person holding a dog. (True/False)
+
+Claim 2: The dog is specifically a beagle.
+Question 2: The dog is specifically a beagle. (True/False)
+
+Claim 3: The person's face is partially visible.
+Question 3: The person's face is partially visible. (True/False)
+
+Claim 4: The person is wearing a light-colored shirt.
+Question 4: The person is wearing
+
+Claim 5: The dog's face is prominent, with brown and white markings.
+Question 5: N/A
+
+Claim 6: The background suggests an indoor setting.
+Question 6: N/A
+
+Claim 7: There are some items and art on the walls in the background.
+Question 7: N/A
+

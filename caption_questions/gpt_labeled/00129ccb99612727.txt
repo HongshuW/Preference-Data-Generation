@@ -1,0 +1,24 @@
+Claim 1: The image shows an orange tabby cat.
+Question 1: The image shows an orange tabby cat. (True/False)
+
+Claim 2: The cat is curled up sleeping.
+Question 2: The cat is curled up sleeping. (True/False)
+
+Claim 3: The cat has its head resting on its foreleg.
+Question 3: The cat has its
+
+Claim 4: The cat's paw is partially covering its face.
+Question 4: N/A
+
+Claim 5: The fur of the cat is soft and fluffy.
+Question 5: N/A
+
+Claim 6: The setting appears to be indoors.
+Question 6: N/A
+
+Claim 7: The surface is likely carpeted.
+Question 7: N/A
+
+Claim 8: The overall mood is calm and cozy.
+Question 8: N/A
+

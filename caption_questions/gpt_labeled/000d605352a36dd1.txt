@@ -1,0 +1,15 @@
+Claim 1: The image shows a cluster of bats hanging upside down in a tree.
+Question 1: The image shows a cluster of bats hanging upside down in a tree: True or False?
+
+Claim 2: The bats are mostly black with some having reddish-brown fur.
+Question 2: The bats are mostly black with some having reddish-brown fur: True or False?
+
+Claim 3: The bats are partially obscured by the branches.
+Question 3: The bats are partially obscured by the branches: True or False?
+
+Claim 4: The background features a clear blue sky.
+Question 4: N/A
+
+Claim 5: The blue sky creates a contrast against the darker colors of the bats and tree branches.
+Question 5: N/A
+

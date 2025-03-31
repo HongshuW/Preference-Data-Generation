@@ -1,0 +1,21 @@
+Claim 1: The image shows a dog with a brown coat.
+Question 1: The image shows a dog with a brown coat. (True/False)
+
+Claim 2: The dog is curiously sniffing a plastic water bottle.
+Question 2: The dog is curiously sniffing a plastic water bottle. (True/False)
+
+Claim 3: The water bottle is lying on the sandy ground.
+Question 3: The water bottle is lying on the sandy
+
+Claim 4: The setting is a beach.
+Question 4: N/A
+
+Claim 5: The soft sand is visible around the dog.
+Question 5: N/A
+
+Claim 6: The dog appears focused on the bottle.
+Question 6: N/A
+
+Claim 7: The dog is possibly investigating the bottle.
+Question 7: N/A
+

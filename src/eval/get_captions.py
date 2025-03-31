@@ -1,5 +1,6 @@
 import configparser
 import json
+import os
 
 from ..utils import gpt_querier as llm
 
@@ -7,8 +8,12 @@ config = configparser.ConfigParser()
 config.read('config.ini')
 base_folder = config['DEFAULT']['DATA_SOURCE_FOLDER']
 inner_labels_path = config['DEFAULT']['INNER_LABELS_PATH']
+inner_data_path = config['DEFAULT']['INNER_DATA_PATH']
 
-output_path = "C:\\Users\\admin\\repos\\Preference-Data-Generation\\caption_questions\\"
+output_captions_path = "C:\\Users\\admin\\repos\\Preference-Data-Generation\\data\\open-images-v7\\train\\labels\\captions_generated_data.jsonl"
+output_questions_path = "C:\\Users\\admin\\repos\\Preference-Data-Generation\\caption_questions\\gpt_labeled\\"
+
+prompt = "Briefly describe the image."
 
 
 def read_captions_jsonl(filepath):
@@ -17,7 +22,7 @@ def read_captions_jsonl(filepath):
         for line in f:
             try:
                 data = json.loads(line.strip())
-                data_instances.append(data)
+                data_instances.append(data["image_id"])
             except json.JSONDecodeError as e:
                 print(f"Skipping invalid line: {e}")
     return data_instances
@@ -69,16 +74,28 @@ def extract_claims_and_questions(response, output_file):
             file.write(f"Question {number}: {question}\n")
             file.write("\n")
 
-# read caption data
+# images to skip
 captions_file = base_folder + inner_labels_path + 'captions_data.jsonl'
-captions_data = read_captions_jsonl(captions_file)
+processed_images = set(read_captions_jsonl(captions_file))
 
-for entry in captions_data:
-    image_id = entry["image_id"]
-    caption = entry["caption"]
+# read images
+for filename in os.listdir(base_folder + inner_data_path):
+    if filename.endswith(".jpg"):
+        image_id = os.path.splitext(filename)[0]
+        if image_id in processed_images:
+            continue
 
-    # call llm
-    response = get_claims_and_questions(caption)
+        caption = llm.generate_response_with_image(base_folder + inner_data_path + filename, prompt)
+        print(caption)
 
-    # process response
-    extract_claims_and_questions(response, output_path + image_id + ".txt")
+        entry = dict()
+        entry["image_id"] = image_id
+        entry["caption"] = caption
+
+        with open(output_captions_path, 'a', encoding='utf-8') as file:
+            json_string = json.dumps(entry)
+            file.write(json_string + '\n')
+            file.close()
+
+        response = get_claims_and_questions(caption)
+        extract_claims_and_questions(response, output_questions_path + image_id + ".txt")

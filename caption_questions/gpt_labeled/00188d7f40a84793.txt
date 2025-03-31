@@ -1,0 +1,24 @@
+Claim 1: The image features a seagull.
+Question 1: Is there a seagull in the image?
+
+Claim 2: The seagull is standing on a textured concrete surface.
+Question 2: Is the seagull standing on a textured concrete
+
+Claim 3: The bird has a primarily white body.
+Question 3: N/A
+
+Claim 4: The bird has gray wings.
+Question 4: N/A
+
+Claim 5: The bird has a distinctive yellow beak.
+Question 5: N/A
+
+Claim 6: One of the bird's legs is banded with a red identification ring.
+Question 6: N/A
+
+Claim 7: The identification ring displays the alphanumeric code "A5BV."
+Question 7: N/A
+
+Claim 8: The background consists of a rough, pebble-studded surface.
+Question 8: N/A
+

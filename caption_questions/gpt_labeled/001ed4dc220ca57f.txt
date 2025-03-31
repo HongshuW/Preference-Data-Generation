@@ -1,0 +1,33 @@
+Claim 1: The image depicts a snowy outdoor scene.
+Question 1: N/A
+
+Claim 2: A young child is sledding down a slope.
+Question 2: N/A
+
+Claim 3: The child has a smiling, happy expression.
+Question 3: N/A
+
+Claim 4: The child is sitting on a purple sled.
+Question 4: N/A
+
+Claim 5: The child is wearing ski goggles, gloves, and a winter jacket.
+Question 5: N/A
+
+Claim 6: An adult is present with the child.
+Question 6: N/A
+
+Claim 7: The adult is assisting the child.
+Question 7: N/A
+
+Claim 8: The adult is sharing in the joy of the moment.
+Question 8: N/A
+
+Claim 9: The adult is wearing a bright orange beanie and a warm jacket.
+Question 9: N/A
+
+Claim 10: A dog is watching the scene in the background.
+Question 10: N/A
+
+Claim 11: The dog is
+Question 11: N/A
+

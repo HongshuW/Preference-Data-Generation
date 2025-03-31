@@ -1,0 +1,15 @@
+Claim 1: The image depicts a serene pond with a greenish hue.
+Question 1: The image depicts a serene pond with a greenish hue. (True/False)
+
+Claim 2: Two ducks swim peacefully on the water's surface.
+Question 2: Two ducks swim peacefully on the water's surface. (True/False)
+
+Claim 3: Reflections of fluffy clouds and trees create a tranquil atmosphere.
+Question 3: Reflections of fluffy clouds and trees create a tranquil atmosphere. (True/False)
+
+Claim 4: The pond is dotted with patches of vegetation.
+Question 4: The pond is dotted with patches
+
+Claim 5: The vegetation enhances the pond's natural beauty.
+Question 5: N/A
+

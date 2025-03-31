@@ -1,0 +1,12 @@
+Claim 1: The image shows a single bird flying against a dark blue sky.
+Question 1: The image shows a single bird flying against a dark blue sky. (True/False)
+
+Claim 2: The bird is silhouetted and appears to be gliding or soaring.
+Question 2: The bird is silhouetted and appears to be gliding or soaring. (True/False)
+
+Claim 3: The overall atmosphere is calm and serene.
+Question 3: The overall atmosphere is calm and serene. (True/False)
+
+Claim 4: The image emphasizes the vastness of the sky.
+Question 4: The image emphasizes the vastness of the sky. (True/False)
+

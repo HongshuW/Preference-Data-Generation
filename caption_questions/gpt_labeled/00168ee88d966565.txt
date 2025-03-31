@@ -1,0 +1,24 @@
+Claim 1: The image depicts a grassy backyard scene.
+Question 1: Is the image depicting a grassy backyard scene?
+
+Claim 2: There are two dogs in the image, one light-colored and one golden.
+Question 2: Are there two dogs in the image, one light-colored and one golden?
+
+Claim 3: The dogs are playing or walking.
+Question 3: N/A
+
+Claim 4: A person in casual clothing is present in the yard.
+Question 4: N/A
+
+Claim 5: The person is possibly engaging with the dogs.
+Question 5: N/A
+
+Claim 6: The area is surrounded by a fence.
+Question 6: N/A
+
+Claim 7: There are trees and some structures visible in the background.
+Question 7: N/A
+
+Claim 8: The scene suggests a home environment.
+Question 8: N/A
+

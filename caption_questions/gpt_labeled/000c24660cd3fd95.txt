@@ -1,0 +1,15 @@
+Claim 1: The image is a high-contrast black-and-white photograph of a cat.
+Question 1: The image is a high-contrast black-and-white photograph of a cat. (True/False)
+
+Claim 2: The photograph focuses on the cat's face and eyes.
+Question 2: The photograph focuses on the cat's face and eyes. (True/False)
+
+Claim 3: The cat's features are emphasized against a dark background.
+Question 3: The cat's features are emphasized against a dark background. (True/False)
+
+Claim 4: The appearance of the cat is striking and somewhat dramatic.
+Question 4: 
+
+Claim 5: There is a patterned surface or fabric partially visible in the image.
+Question 5: N/A
+

@@ -1,0 +1,24 @@
+Claim 1: The image shows a bird, likely a duck.
+Question 1: The image shows a bird, likely a duck. True or False?
+
+Claim 2: The bird is standing on a sandy shoreline next to a body of water.
+Question 2: The bird is standing on a sandy shoreline next
+
+Claim 3: The bird is facing away from the camera.
+Question 3: N/A
+
+Claim 4: The bird has its head tucked under one of its wings.
+Question 4: N/A
+
+Claim 5: Gentle waves are lapping at the shore in the background.
+Question 5: N/A
+
+Claim 6: There are small pebbles scattered along the sand.
+Question 6: N/A
+
+Claim 7: The scene appears peaceful.
+Question 7: N/A
+
+Claim 8: The image captures a moment in nature.
+Question 8: N/A
+

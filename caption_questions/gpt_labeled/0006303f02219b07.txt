@@ -1,0 +1,18 @@
+Claim 1: The image features a small, fluffy white dog with a curly coat.
+Question 1: The image features a small, fluffy white dog with a curly coat. (True/False)
+
+Claim 2: The dog has large, dark eyes and a rounded face.
+Question 2: The dog has large, dark eyes and a rounded face. (True/False)
+
+Claim 3: The dog's expression conveys friendliness.
+Question 3: The dog's expression conveys friendliness
+
+Claim 4: The dog appears to have a small snout.
+Question 4: N/A
+
+Claim 5: The dog is likely a breed known for its affectionate nature.
+Question 5: N/A
+
+Claim 6: The background of the image is softly blurred, emphasizing the dog's features.
+Question 6: N/A
+

@@ -1,0 +1,18 @@
+Claim 1: The image depicts a dog dressed in a colorful clown costume with bright polka dots.
+Question 1: The image depicts a dog dressed in a colorful clown costume with bright polka dots: True or False?
+
+Claim 2: The dog is wearing a vibrant pink hat.
+Question 2: The dog is wearing a vibrant pink hat: True or False?
+
+Claim 3: The setting is a wooded outdoor area.
+Question 3: The setting is a wooded outdoor area: True or False?
+
+Claim 4: There is mulch on the ground surrounding the dog.
+Question 4: There is
+
+Claim 5: The dog is on a leash.
+Question 5: N/A
+
+Claim 6: The dog's expression seems curious.
+Question 6: N/A
+

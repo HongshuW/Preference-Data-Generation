@@ -1,0 +1,30 @@
+Claim 1: The image features a cute puppy.
+Question 1: The image features a cute puppy. (True/False)
+
+Claim 2: The puppy is likely an English Bulldog.
+Question 2: N/A
+
+Claim 3: The puppy is sitting on green grass.
+Question 3: N/A
+
+Claim 4: The puppy has a distinctive wrinkled face.
+Question 4: N/A
+
+Claim 5: The puppy has large dark eyes.
+Question 5: N/A
+
+Claim 6: The puppy has a light brown and white coat.
+Question 6: N/A
+
+Claim 7: The puppy is wearing a string of pearls around its neck.
+Question 7: N/A
+
+Claim 8: The puppy has a charming and whimsical appearance.
+Question 8: N/A
+
+Claim 9: There is a blurry car in the background.
+Question 9: N/A
+
+Claim 10: The background suggests an outdoor setting.
+Question 10: N/A
+

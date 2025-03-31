@@ -1,0 +1,21 @@
+Claim 1: The image features a rocky hillside covered with greenery.
+Question 1: The image features a rocky hillside covered with greenery. (True/False)
+
+Claim 2: There is a cave entrance at the bottom of the hillside.
+Question 2: There is a cave entrance at the bottom of the hillside. (True/False)
+
+Claim 3: Numerous birds are flying above the cave.
+Question 3: Numerous birds are flying above the cave
+
+Claim 4: The scene is dynamic and against a cloudy sky.
+Question 4: N/A
+
+Claim 5: The vegetation is rich and the terrain is rugged.
+Question 5: N/A
+
+Claim 6: The environment appears to be natural.
+Question 6: N/A
+
+Claim 7: It is possibly a wildlife habitat.
+Question 7: N/A
+

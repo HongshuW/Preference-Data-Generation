@@ -1,0 +1,21 @@
+Claim 1: The image shows a small bird known for its distinctive markings.
+Question 1: The image shows a small bird known for its distinctive markings. (True/False)
+
+Claim 2: The bird is foraging on a sandy or muddy surface.
+Question 2: The bird
+
+Claim 3: The bird has a white belly and tan and gray plumage.
+Question 3: N/A
+
+Claim 4: The bird has characteristic black bands around its neck.
+Question 4: N/A
+
+Claim 5: The bird is focused on the ground, likely searching for food.
+Question 5: N/A
+
+Claim 6: The background appears to be natural terrain, possibly near water.
+Question 6: N/A
+
+Claim 7: There are grains of sand or small pebbles scattered about in the background.
+Question 7: N/A
+

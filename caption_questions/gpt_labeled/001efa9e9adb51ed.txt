@@ -1,0 +1,24 @@
+Claim 1: The image features a white duck.
+Question 1: The image features a white duck. (True/False)
+
+Claim 2: The duck is resting on a rock by the water's edge.
+Question 2: The duck is resting on a rock by the water's edge. (True/False)
+
+Claim 3: The duck is sitting with its head tucked under its wing.
+Question 3: N/A
+
+Claim 4: The duck appears serene and calm.
+Question 4: N/A
+
+Claim 5: The water behind the duck is dark.
+Question 5: N/A
+
+Claim 6: The water reflects the surroundings.
+Question 6: N/A
+
+Claim 7: The edges of the image have a soft, blurred effect.
+Question 7: N/A
+
+Claim 8: The image has a tranquil atmosphere.
+Question 8: N/A
+

@@ -1,0 +1,27 @@
+Claim 1: The image features a dog mid-yawn.
+Question 1: True or False: The image features a dog mid-yawn.
+
+Claim 2: The dog is showing its teeth and tongue.
+Question 2: True or False: The dog is showing its
+
+Claim 3: The dog has a scruffy coat, primarily black and brown.
+Question 3: N/A
+
+Claim 4: The dog has some fluffy fur around its neck.
+Question 4: N/A
+
+Claim 5: The background includes green plants.
+Question 5: N/A
+
+Claim 6: The setting is soft and natural.
+Question 6: N/A
+
+Claim 7: The environment suggests a warm outdoor setting.
+Question 7: N/A
+
+Claim 8: The lighting appears soft.
+Question 8: N/A
+
+Claim 9: The lighting enhances the relaxed atmosphere of the scene.
+Question 9: N/A
+

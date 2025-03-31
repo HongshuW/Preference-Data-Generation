@@ -1,0 +1,24 @@
+Claim 1: The image shows an animal with a sleek, dark fur coat.
+Question 1: The image shows an animal with a sleek, dark fur coat. (True/False)
+
+Claim 2: The animal has grey streaks in its fur coat.
+Question 2: The animal has grey streaks in its fur coat
+
+Claim 3: The animal has features resembling those of a fox.
+Question 3: N/A
+
+Claim 4: The animal is inside a metal cage.
+Question 4: N/A
+
+Claim 5: The animal has its ears perked up.
+Question 5: N/A
+
+Claim 6: The animal has a curious expression on its face.
+Question 6: N/A
+
+Claim 7: The background of the image is blurred.
+Question 7: N/A
+
+Claim 8: The animal is looking outward.
+Question 8: N/A
+

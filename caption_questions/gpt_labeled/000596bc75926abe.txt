@@ -1,0 +1,21 @@
+Claim 1: The image depicts a coastal scene at dusk.
+Question 1: The image depicts a coastal scene at dusk. (True/False)
+
+Claim 2: Gentle waves are lapping at a dark sandy beach.
+Question 2: Gentle waves are lapping at a dark sandy beach. (True/False)
+
+Claim 3: The beach is illuminated by soft, golden light reflecting off the water.
+Question 3: N/A
+
+Claim 4: The sky is filled with clouds, creating a dramatic backdrop.
+Question 4: N/A
+
+Claim 5: A few birds are flying across the horizon.
+Question 5: N/A
+
+Claim 6: There is a textured overlay that adds an artistic quality to the scene.
+Question 6: N/A
+
+Claim 7: The scene has a tranquil atmosphere.
+Question 7: N/A
+

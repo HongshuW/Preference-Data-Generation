@@ -1,0 +1,15 @@
+Claim 1: The image depicts a cat and a bird appearing to share a close moment, with their faces almost touching.
+Question 1: The image depicts a cat and a bird appearing to share a close moment, with their faces almost touching. (True/False)
+
+Claim 2: The cat has gray fur with white patches.
+Question 2: The cat has gray fur with white patches. (True/False)
+
+Claim 3: The bird has a black and white feathery appearance.
+Question 3: The bird has a black and white feathery appearance. (True/False)
+
+Claim 4: They are situated on a chair.
+Question 4: N/A
+
+Claim 5: The background suggests a cozy indoor setting with some greenery visible.
+Question 5: N/A
+

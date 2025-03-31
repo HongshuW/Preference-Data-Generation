@@ -1,0 +1,21 @@
+Claim 1: The image features a fluffy cat sleeping on a surface.
+Question 1: The image features a fluffy cat sleeping on a surface. (True/False)
+
+Claim 2: The surface is likely a desk or table.
+Question 2: The surface is likely a desk or table. (True/False)
+
+Claim 3: The cat has a light cream and tan colored coat.
+Question 3: The cat has a
+
+Claim 4: The cat's eyes are closed in a peaceful expression.
+Question 4: N/A
+
+Claim 5: The cat's paws are tucked close to its body.
+Question 5: N/A
+
+Claim 6: The background includes some paperwork or magazines.
+Question 6: N/A
+
+Claim 7: The setting is cozy and indoors.
+Question 7: N/A
+

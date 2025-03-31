@@ -1,0 +1,18 @@
+Claim 1: The image features a close-up of a small dog, possibly a puppy.
+Question 1: The image features a close-up of a small dog, possibly a puppy. (True/False)
+
+Claim 2: The dog has predominantly white fur with distinctive black markings on its head.
+Question 2: The dog has predominantly white fur with distinctive black markings on its head. (True
+
+Claim 3: The dog has large, expressive blue eyes.
+Question 3: N/A
+
+Claim 4: The dog has a small black nose.
+Question 4: N/A
+
+Claim 5: The background appears somewhat blurred, focusing attention on the dog's face.
+Question 5: N/A
+
+Claim 6: The date "2001/1/14" is visible in the corner.
+Question 6: N/A
+

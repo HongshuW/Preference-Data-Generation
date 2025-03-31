@@ -1,0 +1,30 @@
+Claim 1: The image depicts a cozy indoor setting.
+Question 1: The image depicts a cozy indoor setting.
+
+Claim 2: There are two puppies in the image.
+Question 2: N/A
+
+Claim 3: One puppy is wearing a red harness.
+Question 3: N/A
+
+Claim 4: One puppy is standing while the other is lying down.
+Question 4: N/A
+
+Claim 5: There are colorful toys scattered around.
+Question 5: N/A
+
+Claim 6: A toy lion is one of the colorful toys present.
+Question 6: N/A
+
+Claim 7: A blue mat is present in the scene.
+Question 7: N/A
+
+Claim 8: Part of a person's leg in sandals is visible in the background.
+Question 8: N/A
+
+Claim 9: A rocking chair is included in the image.
+Question 9: N/A
+
+Claim 10: Some children's items are present in the scene.
+Question 10: N/A
+

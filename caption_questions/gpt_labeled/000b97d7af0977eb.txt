@@ -1,0 +1,18 @@
+Claim 1: The image shows a black dog inside a wire crate.
+Question 1: True or False: The image shows a black dog inside a wire crate.
+
+Claim 2: The crate has a soft white bedding inside.
+Question 2: True or False: The crate has a soft white bedding inside.
+
+Claim 3: Part of a person wearing a blue shirt is visible.
+Question 3: True or False: Part of a person wearing a blue shirt is visible.
+
+Claim 4: The person appears to be sitting on the floor beside the crate.
+Question 4: True or False
+
+Claim 5: The background contains a patterned rug.
+Question 5: N/A
+
+Claim 6: The background contains some furniture.
+Question 6: N/A
+
