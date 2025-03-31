@@ -6,15 +6,16 @@ This repository is for CS6240 course project.
 |- data\
 |- remove_object\
 |- baseline\
-|- download_data\
-&nbsp;&nbsp;|- load_data.py\
-&nbsp;&nbsp;|- load_data_narratives.py\
-&nbsp;&nbsp;|- filter_narratives.py\
-&nbsp;&nbsp;|- filter_meta_files.py\
-&nbsp;&nbsp;|- find_images_with_missing_labels.py\
-|- process_data\
-&nbsp;&nbsp;|- process_data.py\
-&nbsp;&nbsp;|- get_baseline.py\
+|- src\
+&nbsp;&nbsp;|- download_data\
+&nbsp;&nbsp;&nbsp;&nbsp;|- load_data.py\
+&nbsp;&nbsp;&nbsp;&nbsp;|- load_data_narratives.py\
+&nbsp;&nbsp;&nbsp;&nbsp;|- filter_narratives.py\
+&nbsp;&nbsp;&nbsp;&nbsp;|- filter_meta_files.py\
+&nbsp;&nbsp;&nbsp;&nbsp;|- find_images_with_missing_labels.py\
+&nbsp;&nbsp;|- process_data\
+&nbsp;&nbsp;&nbsp;&nbsp;|- process_data.py\
+&nbsp;&nbsp;&nbsp;&nbsp;|- get_baseline.py\
 |- README.md
 
 ### Original Data
