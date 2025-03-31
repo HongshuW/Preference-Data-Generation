@@ -1,0 +1,24 @@
+{"image_id": "000256419f7c57d8", "label": "Person", "question": "Question 2: The people are holding dogs. (True/False)", "original_image": "T", "baseline_image": "T", "PDG_image": "T"}
+{"image_id": "0002c6ace3fef696", "label": "Dog", "question": "Question 1: There is a dog on the carpet. (True/False)", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "00067fe83e3e21c8", "label": "Cat", "question": "Question 1: Is there an animal in the image?", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "00073eca51f23401", "label": "Bird", "question": "Question 1: Is there an animal in the image?", "original_image": "T", "baseline_image": "T", "PDG_image": "T"}
+{"image_id": "00074503ceae5131", "label": "Dog bed", "question": "Question 1: This dog is laying on a bed. (True/False)", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "0008ab3d8674f6ca", "label": "Cat", "question": "Question 1: This dog is laying on a bed. (True/False)", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "0008c70f64391581", "label": "Bird", "question": "Question 1: This dog is laying on a bed. (True/False)", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "0008cf211699d6a5", "label": "Dog", "question": "Question 1: This dog is laying on a bed. (True/False)", "original_image": "T", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "0009450a8ed12bd4", "label": "Plant", "question": "Question 1: This image consists of trees at the top. (True/False)", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "00096d55fb575b59", "label": "Swimwear", "question": "Question 3: Is there water in the background?", "original_image": "T", "baseline_image": "T", "PDG_image": "T"}
+{"image_id": "001119b7264d31c8", "label": "Bird", "question": "Question 1: There is a bird on a branch in the picture. (True/False)", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "0012d875044bfa35", "label": "Dog", "question": "Question 1: Is this a dog sitting on the floor?</1>", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "0012f1c145573ce2", "label": "Human hand", "question": "Question 1: Is this a dog sitting on the floor?</1>", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "0014169878a84bd5", "label": "Dog", "question": "Question 5: Are there cables around the dog?", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "001585b6966faee0", "label": "Tree", "question": "Question 4: Are there a few trees in the background?", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "00179dab1251271b", "label": "Flying disc", "question": "Question 3: The dog in the foreground is holding an object in its mouth?", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "0019757ca6f64107", "label": "Cat", "question": "Question 1: Is there a cat in the image?", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "001a64b9a9259f3e", "label": "Dog", "question": "Question 1: A person is holding a dog with his hands. (True/False)", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "001a8ef7d32b1fdc", "label": "Bird", "question": "Question 1: Is there a bird flying in the sky in this image?", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "001be2342180e406", "label": "Dog", "question": "Question 1: Is there a puppy dog standing on the white color cloth?", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "001c3e16fa23bdc1", "label": "Bird", "question": "Question 1: Is there a puppy dog standing on the white color cloth?", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "001e0b7c387bdd06", "label": "Dog", "question": "Question 2: Does the dog have a chain belt around its neck?", "original_image": "T", "baseline_image": "T", "PDG_image": "F"}
+{"image_id": "001ecac90c6f4457", "label": "Dog", "question": "Question 2: There is a belt tightened to the dog. (True/False)", "original_image": "F", "baseline_image": "F", "PDG_image": "F"}
+{"image_id": "001f2bec02f16977", "label": "Cat", "question": "Question 1: There are two cat photos on the wall. (True/False)", "original_image": "T", "baseline_image": "T", "PDG_image": "T"}
