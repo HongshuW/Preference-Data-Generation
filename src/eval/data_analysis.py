@@ -57,6 +57,8 @@ for folder in subfolders:
 
     print(folder)
     print("baseline success rate:")
+    print(baseline_results)
     print(baseline_success_rate)
     print("pdg success rate:")
+    print(pdg_results)
     print(pdg_success_rate)
